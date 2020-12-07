@@ -54,7 +54,7 @@ namespace S10V137_Impostos
             {
                 sum = sum + cont1.Imposto();
             }
-            Console.Write("Total de Taxas: $"+sum.ToString("F2",CultureInfo.InvariantCulture);
+            Console.Write("Total de Taxas: $"+sum.ToString("F2",CultureInfo.InvariantCulture));
 
         }
     }
